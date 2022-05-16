@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+
 h1, h2, h3 {
-    font-family: Verdana, sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 h1 {
@@ -8,48 +11,36 @@ h1 {
 }
 
 h2 {
-    font-size: 28px;
+    font-size: 24px;
     color: #6F8183;
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 18px;
     color: #736773;
 }
 
 p, ul, ol {
-    font-size: 14px;
+    font-size: 16px;
     color: #455673;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Josefin Slab', sans-serif;
 }
 
-a:link {
-    font-size: 16px;
-    color: #6e5c90;
-    font-family: 'Courier New', Courier, monospace;
+a {
+    font-size: 18px;
+    font-family: 'Josefin Slab', sans-serif;
     text-decoration: none;
-}
-
-a:visited {
-    font-size: 16px;
     color: #6e5c90;
-    font-family: 'Courier New', Courier, monospace;
-    text-decoration: none;
 }
 
 a:hover {
-    font-size: 16px;
     color: #ad84c6;
-    font-family: 'Courier New', Courier, monospace;
-    text-decoration: none;
     font-weight: bold;
 }
 
 a:active {
-    font-size: 16px;
     color: #ad84c6;
-    font-family: 'Courier New', Courier, monospace;
-    text-decoration: none;
+
 
 }
 
